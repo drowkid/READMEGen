@@ -143,7 +143,7 @@ $ yarn dev
 This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE.md) file.
 
 
-Made with :heart: by <a href="https://github.com/maurodesouza" target="_blank">Mauro de Souza</a>
+Made with :heart: by <a href="https://github.com/drowkid" target="_blank">DrowKid</a>
 
 &#xa0;
 
